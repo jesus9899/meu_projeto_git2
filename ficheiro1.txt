@@ -1,2 +1,3 @@
 Este é o exemplo de um ficheiro de texto
 
+estou a fazer alteraçoes aop ficheiro
